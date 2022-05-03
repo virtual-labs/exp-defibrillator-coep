@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Cardioveter is combination of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "ECG and EEG",
+        "b": "ECG and EMG",
+        "c": "ECG and defibrillator",
+        "d": "ECG and EOG"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The approximate electrode size with ohmic resistance 50 to 100 ohm is",
+      "answers": {
+        "a": "80 sq cm",
+        "b": "10000 sq cm",
+        "c": "4500 sq cm",
+        "d": "None of the above"
       },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The electrodes required in case of defibrillator are",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Posterior",
+        "b": "anterior",
+        "c": "anterior and posterior",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Defibrillator is required for restoring functionality of",
+      "answers": {
+        "a": "Lung",
+        "b": "Heart",
+        "c": "Brain",
+        "d": "Limbs"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In the defibrillator circuit the energy stored in capacitor depends on",
+      "answers": {
+        "a": "capacitance",
+        "b": "voltage",
+        "c": "Current",
+        "d": "both a and b"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
